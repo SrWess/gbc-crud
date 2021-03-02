@@ -58,7 +58,7 @@ $ yarn dev:server
 ## :notebook: Rotas API
 
 Execute utilizando Insomnia:
-## [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
+## [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=https://raw.githubusercontent.com/SrWess/gbc-crud/master/insomnia-crud.json)
 
 > #### Rotas
 > **Rota GET**: http://localhost:3333/ - Lista todos os médicos cadastrados no sistema, para pesquisa específca utiliza opção Query
