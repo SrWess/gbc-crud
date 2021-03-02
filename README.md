@@ -62,8 +62,11 @@ Execute utilizando Insomnia:
 
 > #### Rotas
 > **Rota GET**: http://localhost:3333/ - Lista todos os médicos cadastrados no sistema, para pesquisa específca utiliza opção Query
+
 > **Rota POST**: http://localhost:3333/doctors - Realiza cadastramento do médico enviando JSON com seguintes dados: name, crm,	landline, mobilePhone, zipCode, specialties
+
 > **Rota PUT**: http://localhost:3333/doctors/:id - Faz alteração de uma ou mais informação do médico, necessário informar ID do médico
+
 > **Rota DELETE**: http://localhost:3333/doctors/:id - Exclução do médico conforme ID informado
 
 
